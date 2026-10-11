@@ -58,7 +58,7 @@ Configure the dataset path in the application before running it.
 
 ## Project Report
 
-See [the project report](assignment_report.pdf) for implementation details and experimental results.
+See [the project report](assignment_report.docx) for implementation details and experimental results.
 
 ## Scope
 
